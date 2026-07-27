@@ -1,0 +1,12 @@
+{
+  "name": "@craft-agent/craft-cli",
+  "version": "0.11.0",
+  "dependencies": {
+    "@craft-agent/craft-agents-commands": "workspace:*",
+    "@craft-agent/shared": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^25.0.8"
+  }
+}
